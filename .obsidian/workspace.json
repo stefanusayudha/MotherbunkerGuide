@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "ec00fbaed32ed718",
+    "type": "split",
+    "children": [
+      {
+        "id": "9686b8f74a1ecd41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c6970bec43e627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setup/3. Swagger Playground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69fd92dced5bc036",
+    "type": "split",
+    "children": [
+      {
+        "id": "44bd0f63c1ec3873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65fd7d58b632405",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e473e52f9a490167",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "555c4ecd44c6b9ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f0122ea067fa0a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "248eb51ef649cfee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0a4dbc3f38e7ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "setup/3. Swagger Playground.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f6c9b9fc1382894",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "setup/3. Swagger Playground.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b05c45c8387b4137",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbeb6134bf8dc6ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "setup/3. Swagger Playground.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "30c6970bec43e627",
+  "lastOpenFiles": [
+    "setup/2. Membuat Servis Aplikasi Strava.md",
+    "setup/1. Menjadi Strava Developer.md",
+    "setup/3. Swagger Playground.md",
+    "res/img/StravaSetting3.png",
+    "res/img/Profile1.png",
+    "res/img/StravaSettingApi2.png",
+    "res/img/Agreement1.png",
+    "res/img/AuthField1.png",
+    "res/img/DescriptionField1.png",
+    "res/img/WebsiteField1.png",
+    "res/img/CategoryField1.png",
+    "res/img/ClubField1.png",
+    "res/img/NameField1.png",
+    "setup/x. Google Colab.md",
+    "strava_activity",
+    "2..md",
+    "().md",
+    "Pasted image 20230415012000.png.md",
+    "res/img",
+    "res",
+    "[.md",
+    "Setup.md",
+    "setup",
+    "Home Page.md"
+  ]
+}
