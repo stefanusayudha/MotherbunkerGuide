@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/3. Swagger Playground.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/3. Swagger Playground.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/3. Swagger Playground.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/3. Swagger Playground.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "30c6970bec43e627",
   "lastOpenFiles": [
-    "setup/2. Membuat Servis Aplikasi Strava.md",
-    "setup/1. Menjadi Strava Developer.md",
     "setup/3. Swagger Playground.md",
+    "setup/2. Membuat Servis Aplikasi Strava.md",
+    "Readme.md",
+    "setup/1. Menjadi Strava Developer.md",
+    "setup/1 Menjadi Strava Developer.md",
     "res/img/StravaSetting3.png",
     "res/img/Profile1.png",
     "res/img/StravaSettingApi2.png",
@@ -171,7 +173,6 @@
     "res",
     "[.md",
     "Setup.md",
-    "setup",
-    "Home Page.md"
+    "setup"
   ]
 }
