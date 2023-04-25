@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9686b8f74a1ecd41",
+        "id": "fe2cfb55e66a8eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "30c6970bec43e627",
+            "id": "5ceb83de1627a6b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Roadmap.canvas",
+                "viewState": {
+                  "x": 251.9599382903889,
+                  "y": -105.0853848015821,
+                  "zoom": -0.31943260524445816
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Roadmap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Roadmap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Roadmap.canvas"
               }
             }
           }
@@ -147,32 +150,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30c6970bec43e627",
+  "active": "5ceb83de1627a6b8",
   "lastOpenFiles": [
-    "setup/3. Swagger Playground.md",
-    "setup/2. Membuat Servis Aplikasi Strava.md",
+    "Untitled.canvas",
+    "a-setup/3. Swagger Playground.md",
     "Readme.md",
-    "setup/1. Menjadi Strava Developer.md",
+    "Roadmap.canvas",
+    "a-setup/1. Menjadi Strava Developer.md",
+    "a-setup/2. Membuat Servis Aplikasi Strava.md",
+    "a-setup/4. Colab Playground.md",
+    "res/img/Colab6.png",
+    "res/img/Colab5.png",
+    "res/img/Colab4.png",
+    "res/img/Colab3.png",
+    "Pasted image 20230425132341.png",
+    "res/img/Colab2.png",
+    "res/img/Colab1.png",
+    "().md",
+    "b-playground",
+    "res/img/Swagger3.png",
+    "res/img/Swagger5.png",
+    "res/img/Swagger4.png",
+    "developers.strava.com.md",
     "setup/1 Menjadi Strava Developer.md",
-    "res/img/StravaSetting3.png",
-    "res/img/Profile1.png",
-    "res/img/StravaSettingApi2.png",
-    "res/img/Agreement1.png",
-    "res/img/AuthField1.png",
-    "res/img/DescriptionField1.png",
-    "res/img/WebsiteField1.png",
-    "res/img/CategoryField1.png",
-    "res/img/ClubField1.png",
-    "res/img/NameField1.png",
     "setup/x. Google Colab.md",
     "strava_activity",
     "2..md",
-    "().md",
     "Pasted image 20230415012000.png.md",
     "res/img",
     "res",
     "[.md",
     "Setup.md",
-    "setup"
+    "a-setup"
   ]
 }
